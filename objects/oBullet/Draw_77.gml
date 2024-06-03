@@ -1,0 +1,23 @@
+if (place_meeting(x, y, Wallobject)) instance_destroy();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
